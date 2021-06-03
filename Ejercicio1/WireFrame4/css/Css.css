@@ -1,0 +1,33 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+.CajaDeMisEmojis{
+    width: 900px;
+    height: auto;
+    margin: auto;
+    padding: 10px;
+	padding-top: 200px;
+    box-sizing: border-box;
+    margin-bottom: 20px;
+    
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+}
+
+.CajaDeMisEmojis div{
+    width: 300px;
+    height: 300px;
+    box-sizing: border-box;
+    background-color:#5DCEA3;
+    margin: 30px;
+    margin-top: 15px;
+    padding-top: 15px;
+	margin: auto;
+	margin-bottom: 60px;
+	border-radius: 40px;  
+}
+.CajaDeMisEmojis .azul{
+	background-color: #001737;
+}

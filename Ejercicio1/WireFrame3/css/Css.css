@@ -1,0 +1,36 @@
+*{
+	padding: 20px;
+	margin: 0px;
+	box-sizing: border-box;
+}
+.principal{
+	width: 1 417,32px;
+	height:1667px;
+	
+	
+	border-radius: 75px;
+	display: flex;
+	flex-direction: column;
+	background-color: #8ff4c7;
+}
+.circulo{
+    width: 135px;
+	height: 135px;
+	background-color:#ffff;
+	border-radius: 100%;
+	
+	margin-top: 60px;
+	margin-left: 60px;
+	align-self:flex-start;
+}
+.cuadro1{
+    width: 750px;
+	height: 150px;
+	background-color:#ffff;
+	border-radius: 75px;
+	
+	margin-top: 1200px;
+	margin-left: 60px;
+	margin-right: 60px;
+	align-self:center;
+}
