@@ -3,13 +3,13 @@
 	margin: 0px;
 }
 .CajaDeMisEmojis{
-    width: 900px;
+    width: 90rem;
     height: auto;
     margin: auto;
-    padding: 10px;
-	padding-top: 200px;
+    padding: 1rem;
+	padding-top: 20rem;
     box-sizing: border-box;
-    margin-bottom: 20px;
+    margin-bottom: 2rem;
     
     display: flex;
     flex-wrap: wrap;
@@ -17,16 +17,16 @@
 }
 
 .CajaDeMisEmojis div{
-    width: 300px;
-    height: 300px;
+    width: 30rem;
+    height: 30rem;
     box-sizing: border-box;
     background-color:#5DCEA3;
-    margin: 30px;
-    margin-top: 15px;
-    padding-top: 15px;
+    margin: 3rem;
+    margin-top: 1.5rem;
+    padding-top: 1.5rem;
 	margin: auto;
-	margin-bottom: 60px;
-	border-radius: 40px;  
+	margin-bottom: 6rem;
+	border-radius: 4rem;  
 }
 .CajaDeMisEmojis .azul{
 	background-color: #001737;

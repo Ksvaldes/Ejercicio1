@@ -3,9 +3,12 @@
 	margin: 0px;
 	box-sizing: border-box;
 }
+html{
+	font-size: 62.5%;
+}
 .principal{
-	width: 1 417,32px;
-	height:1667px;
+	width: 14,173.2rem;
+	height:166.7rem;
 	
 	
 	border-radius: 75px;
@@ -14,23 +17,23 @@
 	background-color: #8ff4c7;
 }
 .circulo{
-    width: 135px;
-	height: 135px;
+    width: 13.5rem;
+	height: 13.5rem;
 	background-color:#ffff;
 	border-radius: 100%;
 	
-	margin-top: 60px;
-	margin-left: 60px;
+	margin-top: 6rem;
+	margin-left: 6rem;
 	align-self:flex-start;
 }
 .cuadro1{
-    width: 750px;
-	height: 150px;
+    width: 75rem;
+	height: 15rem;
 	background-color:#ffff;
 	border-radius: 75px;
 	
-	margin-top: 1200px;
-	margin-left: 60px;
-	margin-right: 60px;
+	margin-top: 120rem;
+	margin-left: 6rem;
+	margin-right: 6rem;
 	align-self:center;
 }

@@ -3,61 +3,64 @@
 	margin: 0px;
 	box-sizing: border-box;
 }
+html{
+	font-size: 62.5%;
+}
 .principal{
-	width: 375px;
+	width: 37.5rem;
 	height: auto;
-	padding: 25px;
+	padding: 2.5rem;
 	
 	display: flex;
 	flex-direction: column;
 }
 .circulo{
-    width: 120px;
-	height: 120px;
+    width: 12rem;
+	height: 12rem;
 	background-color:rebeccapurple;
 	border-radius: 100%;
 	
-	margin-top: 40px;
+	margin-top: 4rem;
 	align-self: center;
 }
 .cuadro1{
-    width: 300px;
-	height: 30px;
+    width: 30rem;
+	height: 3rem;
 	background-color:#572364;
-	border-radius: 60px;
+	border-radius: 6rem;
 	
-	margin-top: 45px;
+	margin-top: 4.5rem;
 	align-self: center;
 }
 .cuadro2, .cuadro3{
-    width: 170px;
-	height: 17px;
+    width: 17rem;
+	height: 1.7rem;
 	background-color:#223562;
 	border-radius: 60px;
 
 	align-self: center;
 }
 .cuadro2{
-	margin-top: 50px;
+	margin-top: 5rem;
 }
 .cuadro3{
-	margin-top: 20px;
+	margin-top: 2rem;
 }
 .cuadro4{
-    width: 300px;
-	height: 150px;
+    width: 30rem;
+	height: 15rem;
 	background-color:#ee9b58;
 	border-radius: 20px;
 	
-	margin-top: 50px;
+	margin-top: 5rem;
 	align-self: center;
 }
 .cuadro5{
-    width: 310px;
-	height: 25px;
+    width: 31rem;
+	height: 2.5rem;
 	background-color:#223562;
 	border-radius: 5px;
 	
-	margin-top: 40px;
+	margin-top: 4rem;
 	align-self: center;
 }
